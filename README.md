@@ -73,7 +73,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ![Election Result](screenshots/Election_Result.png)
 
 ### 🗓️ Events-Ganach
-![Events-Ganach](screenshots/Events_Ganach.png)
+![Events-Ganach](screenshots/Events-Ganach.jpg)
 
 ### 🛠️ Start Election
 ![Start Election](screenshots/Start_Election.png)
